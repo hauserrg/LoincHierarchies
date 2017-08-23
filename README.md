@@ -1,1 +1,1 @@
-<a href="http://hierarchyviewer.azurewebsites.net/">XYZ</a>  http://hierarchyviewer.azurewebsites.net
+The LOINC hierarchies can be viewed here -> http://hierarchyviewer.azurewebsites.net
